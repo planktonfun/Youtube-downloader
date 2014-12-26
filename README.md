@@ -7,6 +7,14 @@ Requires:
 Downloads Youtube videos from commandline via php
 
 Execute in commandline:
->downloader.bat
+
+````
+$ downloader.bat
+
+````
+
 or
->php downloader.php
+
+````
+$ php downloader.php
+````
